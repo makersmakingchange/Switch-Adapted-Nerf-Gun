@@ -26,6 +26,7 @@ If you have the skills and equipment to build this device, and would like to don
 
 ### 1. Read the Makers Checklist
 
+The Makers Checklist contains a list of tasks to complete to build the device.
 [The Makers Checklist](/Documentation/Switch_Adapted_Nerf_Gun_Maker_Checklist_V1.0.pdf)
 
 ### 2. Order the Off-The-Shelf Components
@@ -54,7 +55,7 @@ Reference the [Assembly Guide](/Documentation/Switch_Adapted_Nerf_Gun_Assembly_G
 | Changelog            | 1.0     | [Switch_Adapted_Nerf_Gun_Changelog](/Documentation/Switch_Adapted_Nerf_Gun_Changelog_V1.0.pdf)     |
 
 ### Design Files
-[CAD Files](/Design_Files)
+[CAD Files](/Design_Files/CAD_Files)
 
 ### Build Files
  - [3D Printing Files](/Build_Files/3D_Printing_Files)
@@ -67,7 +68,7 @@ Designers:
 
 
 ## License
-Everything needed or used to design, make, test, or prepare the <Device-Name> is licensed under the [Attribution-NonCommercial-ShareAlike 4.0 ](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Everything needed or used to design, make, test, or prepare the Switch Adapted Nerf Gun is licensed under the [Attribution-NonCommercial-ShareAlike 4.0 ](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the <Device-Name> are published under a Creative Commons Attribution-ShareAlike 4.0 license https://creativecommons.org/licenses/by-sa/4.0/ (CC BY-SA 4.0).
 
