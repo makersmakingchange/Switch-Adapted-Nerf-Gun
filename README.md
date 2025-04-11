@@ -5,8 +5,6 @@ The Switch Adapted Nerf Gun is designed to be a switch adapted toy for an older 
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/switch-adapted-nerf-gun/)
-- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/switch-adapted-nerf-gun/)
-
 
 ## How to Obtain a Switch Adapted Nerf Gun
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
@@ -74,7 +72,7 @@ Accompanying material such as instruction manuals, videos, and other copyrightab
 
 
 ---
-
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 <img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
 
@@ -92,3 +90,4 @@ We are committed to creating a network of volunteer makers who support people wi
 ## Contact Us
 
 For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Website](https://www.makersmakingchange.com/), [MMC Forum](https://makersmakingchange.com/forum), or contact info@makersmakingchange.com
+<!-- ABOUT MMC END -->
